@@ -6,5 +6,4 @@ This is a simple Tic Tac Toe game built using Python and the Tkinter GUI library
 🔸Two-player support (X and O)
 🔸Automatically checks for win or draw
 🔸Simple and responsive GUI
-
 🔸Reset button to start a new game
